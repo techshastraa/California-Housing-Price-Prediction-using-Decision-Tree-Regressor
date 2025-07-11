@@ -1,0 +1,2 @@
+# California-Housing-Price-Prediction-using-Decision-Tree-Regressor
+Here’s a concise **GitHub description (under 350 characters):**  > A Decision Tree Regressor model using the California Housing dataset to predict housing prices. Includes baseline training, model evaluation using R² and MSE, and hyperparameter tuning with GridSearchCV. Built with scikit-learn, pandas, and numpy for regression analysis.
